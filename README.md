@@ -1,6 +1,5 @@
 # JSP Practical Tutorial
-#### This is the JSP practical tutorial source code warehouse,ISBN:
-9787302377757.
+#### This is the JSP practical tutorial source code warehouse,ISBN:9787302377757.
 
 - Description：JSP Practical Tutorial
 - Author：FangWei

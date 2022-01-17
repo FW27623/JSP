@@ -10,4 +10,6 @@
               out.print("<br>");
          }
     %>
-</FONT></BODY></HTML>
+</FONT>
+</BODY>
+</HTML>
