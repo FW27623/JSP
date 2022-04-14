@@ -7,6 +7,8 @@
         <element id="directory" name="classes">
           <element id="module-output" name="JSP" />
         </element>
+        <element id="library" level="project" name="servlet-api" />
+        <element id="module-output" name="JSP" />
       </element>
     </root>
   </artifact>

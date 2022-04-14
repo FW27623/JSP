@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<web-app
-        version="4.0" metadata-complete="false">
+<web-app>
     <servlet>
             <servlet-name>ComputerController</servlet-name>
             <servlet-class>admin.fw1028.top.ComputerController</servlet-class>
@@ -8,5 +7,13 @@
     <servlet-mapping>
             <servlet-name>ComputerController</servlet-name>
             <url-pattern>/ComputerController</url-pattern>
+    </servlet-mapping>
+    <servlet>
+            <servlet-name>show</servlet-name>
+            <servlet-class>admin.fw1028.top.show</servlet-class>
+    </servlet>
+    <servlet-mapping>
+            <servlet-name>show</servlet-name>
+            <url-pattern>/show</url-pattern>
     </servlet-mapping>
 </web-app>
